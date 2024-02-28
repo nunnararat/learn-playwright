@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1708941181821' stop='1708941190605'>
+    <name>Launch Browser</name>
+    <title>Launch Browser</title>
+    <test-cases>
+        <test-case start='1708941181822' status='pending' stop='1708941181822'>
+            <name>Open letcode</name>
+            <title>Open letcode</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1708941181822' status='passed' stop='1708941190605'>
+            <name>Recoed Script | Codeless Automation With PlayWright | Record Video</name>
+            <title>Recoed Script | Codeless Automation With PlayWright | Record Video</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

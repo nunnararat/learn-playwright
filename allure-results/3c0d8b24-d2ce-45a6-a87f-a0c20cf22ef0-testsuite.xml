@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1708941197291' stop='1708941209152'>
+    <name>TC001</name>
+    <title>TC001</title>
+    <test-cases>
+        <test-case start='1708941199750' status='passed' stop='1708941207764'>
+            <name>Login positive _ JIRA101</name>
+            <title>Login positive _ JIRA101</title>
+            <labels>
+                <label name='story' value='JIRA101'/>
+            </labels>
+            <parameters/>
+            <steps>
+                <step start='1708941199751' status='passed' stop='1708941199902'>
+                    <name>Navigate to letcode</name>
+                    <title>Navigate to letcode</title>
+                    <attachments>
+                        <attachment title='naviagation' source='44ae5bab-1efd-452b-b3de-b15406385bb7-attachment.png' type='image/png' size='54993'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1708941199902' status='passed' stop='1708941200102'>
+                    <name>Click login link</name>
+                    <title>Click login link</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1708941200102' status='passed' stop='1708941200632'>
+                    <name>enter username</name>
+                    <title>enter username</title>
+                    <attachments>
+                        <attachment title='username' source='e910bc3b-9b78-4bca-bd8d-82de2f80c99c-attachment.png' type='image/png' size='155691'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1708941200632' status='passed' stop='1708941200863'>
+                    <name>enter password</name>
+                    <title>enter password</title>
+                    <attachments>
+                        <attachment title='screenshot' source='5f669592-6cc8-498b-bc9d-a12734b0333d-attachment.png' type='image/png' size='175607'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1708941202275' status='passed' stop='1708941207763'>
+                    <name>Log out</name>
+                    <title>Log out</title>
+                    <attachments>
+                        <attachment title='done' source='40da3181-8a40-4d0b-b33a-c89ebcf0a318-attachment.png' type='image/png' size='137606'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <description type='text'>Login into LetCode</description>
+        </test-case>
+        <test-case start='1708941207764' status='passed' stop='1708941209151'>
+            <name>Login again</name>
+            <title>Login again</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='done' source='a2daf9e6-cb46-4ff6-a217-1331658d2f45-attachment.png' type='image/png' size='62234'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
